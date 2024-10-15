@@ -14,7 +14,7 @@ public class PangramChecker
 		else
 			System.out.println("The given pangram is invalid");
 		sc.close();
-	}
+    }
     public static boolean checker(String input)
     {
     	if(input.length()<26)
