@@ -107,4 +107,10 @@ O O X
 . . .
 Current State: Wrong turn order
 
+Enter the 3X3 board using 'X' and 'Y' if not filled use '.'
+X X X
+O O O
+. . .
+Current State: Continued playing after win
+
 */
