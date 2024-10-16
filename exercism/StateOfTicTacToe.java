@@ -27,14 +27,14 @@ public class StateOfTicTacToe
         
     	for (int i = 0; i < 3; i++) 
     	{
-    		if (board[i][0]!='.' && board[i][0] == board[i][1] && board[i][1] == board[i][2]) // check the row for any win
-    		{
+    	    if (board[i][0] == board[i][1] && board[i][1] == board[i][2]) // check the row for any win
+    	    {
                 if (board[i][0] == 'X') 
                 	xWins = true;
                 if (board[i][0] == 'O') 
                 	oWins = true;
             }
-            if (board[0][i]!='.' && board[0][i] == board[1][i] && board[1][i] == board[2][i]) // check the column for any win
+            if (board[0][i] == board[1][i] && board[1][i] == board[2][i]) // check the column for any win
             {
                 if (board[0][i] == 'X') 
                 	xWins = true;
