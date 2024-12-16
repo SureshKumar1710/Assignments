@@ -1,0 +1,212 @@
+[
+    {
+        "question": "Which of the following is not a programming language?",
+        "options": [
+            {
+                "text": "Python",
+                "correct": false
+            },
+            {
+                "text": "HTML",
+                "correct": true
+            },
+            {
+                "text": "Java",
+                "correct": false
+            },
+            {
+                "text": "C++",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What does RAM stand for?",
+        "options": [
+            {
+                "text": "Random Access Memory",
+                "correct": true
+            },
+            {
+                "text": "Read Access Memory",
+                "correct": false
+            },
+            {
+                "text": "Run Access Memory",
+                "correct": false
+            },
+            {
+                "text": "Rapid Access Memory",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which data structure uses LIFO (Last In, First Out)?",
+        "options": [
+            {
+                "text": "Queue",
+                "correct": false
+            },
+            {
+                "text": "Stack",
+                "correct": true
+            },
+            {
+                "text": "Heap",
+                "correct": false
+            },
+            {
+                "text": "Array",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What does the acronym HTTP stand for?",
+        "options": [
+            {
+                "text": "HyperText Transfer Protocol",
+                "correct": true
+            },
+            {
+                "text": "HyperText Transmission Protocol",
+                "correct": false
+            },
+            {
+                "text": "Hyper Transfer Text Protocol",
+                "correct": false
+            },
+            {
+                "text": "HyperText Transport Protocol",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a NoSQL database?",
+        "options": [
+            {
+                "text": "MySQL",
+                "correct": false
+            },
+            {
+                "text": "MongoDB",
+                "correct": true
+            },
+            {
+                "text": "PostgreSQL",
+                "correct": false
+            },
+            {
+                "text": "OracleDB",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the time complexity of binary search?",
+        "options": [
+            {
+                "text": "O(n)",
+                "correct": false
+            },
+            {
+                "text": "O(log n)",
+                "correct": true
+            },
+            {
+                "text": "O(n^2)",
+                "correct": false
+            },
+            {
+                "text": "O(1)",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which programming language is used for Android app development?",
+        "options": [
+            {
+                "text": "Swift",
+                "correct": false
+            },
+            {
+                "text": "Kotlin",
+                "correct": true
+            },
+            {
+                "text": "Ruby",
+                "correct": false
+            },
+            {
+                "text": "Perl",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of an operating system?",
+        "options": [
+            {
+                "text": "To manage hardware and software resources",
+                "correct": true
+            },
+            {
+                "text": "To compile code",
+                "correct": false
+            },
+            {
+                "text": "To perform mathematical calculations",
+                "correct": false
+            },
+            {
+                "text": "To execute user commands directly",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a primary key property in databases?",
+        "options": [
+            {
+                "text": "Uniqueness",
+                "correct": true
+            },
+            {
+                "text": "Redundancy",
+                "correct": false
+            },
+            {
+                "text": "Normalization",
+                "correct": false
+            },
+            {
+                "text": "Denormalization",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which sorting algorithm has the best average case time complexity?",
+        "options": [
+            {
+                "text": "Bubble Sort",
+                "correct": false
+            },
+            {
+                "text": "Quick Sort",
+                "correct": false
+            },
+            {
+                "text": "Merge Sort",
+                "correct": true
+            },
+            {
+                "text": "Insertion Sort",
+                "correct": false
+            }
+        ]
+    }
+]
